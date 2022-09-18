@@ -10,7 +10,7 @@ public class EmpWage_UC1 {
 		int max = 5;
 		num = (int) (Math.random () );
 		
-		if (num <=1)
+		if (num == 1)
 		{
 		System.out.println("Employee is present");	
 		}
